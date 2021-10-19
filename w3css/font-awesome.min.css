@@ -252,6 +252,17 @@
 	content:"";
 }
 
+.fa-precios:before {
+    background-image: url("../icons/hand money.png");
+    background-size: 20px 20px;
+    position:relative;
+    top:5px;
+    display: inline-block;
+    width: 20px; 
+    height: 20px;
+	content:"";
+}
+
 .fa-film:before {
 	content: "\f008"
 }

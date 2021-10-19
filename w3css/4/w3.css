@@ -1999,3 +1999,20 @@ a {
     display: inline-block;
     z-index:-1
 }
+
+.dot2 {
+  height: 25px;
+  width: 25px;
+  background-color: #bbb;
+  border-radius: 50%;
+  background-color: #d96a6a ;
+  display: inline-block;
+}
+
+hr {
+	position:relative;
+  border: 1px solid #d96a6a;
+  left:25%;
+  width:50%;
+}
+
