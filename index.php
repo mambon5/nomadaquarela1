@@ -189,7 +189,7 @@ h3 {color: #d92929}
           
     <hr>
     
-    <h3 class="red">Cuanto cobramos</h3>
+    <h3 class="red">Cuánto cobramos</h3>
     <!-- Pricing Tables -->
     <div class="w3-row-padding" style="margin:0 -16px">
       <div class="w3-third w3-margin-bottom">
@@ -273,7 +273,7 @@ h3 {color: #d92929}
   <p>Estamos comprometidos con llevar el arte visual, en particular la acuarela, a personas que no tienen acceso a él.
   Lo que denominamos Grupos con Difícil Acceso al Arte (GDAA). Entre estos colectivos estarían:</p>
   <ul>
-      <li>Enfermos crónicos (oncológicos, psicológicos, trauma, etc</li>
+      <li>Enfermos crónicos (oncológicos, psicológicos, trauma, etc)</li>
       <li>Niños, y jóvenes que no tienen una familia que les sostenga y pueda pagar clases de arte</li>
   </ul>
   
@@ -333,13 +333,13 @@ h3 {color: #d92929}
       <ul class="w3-ul w3-hoverable">
         <li class="w3-padding-16">
           <img src="/w3images/workshop.jpg" class="w3-left w3-margin-right" style="width:50px">
-          <span class="w3-large">Lorem</span><br>
-          <span>Sed mattis nunc</span>
+          <span class="w3-large">Eunice</span><br>
+          <span>Velázquez. Me encantan los Alebrijes</span>
         </li>
         <li class="w3-padding-16">
           <img src="/w3images/gondol.jpg" class="w3-left w3-margin-right" style="width:50px">
-          <span class="w3-large">Ipsum</span><br>
-          <span>Praes tinci sed</span>
+          <span class="w3-large">Romà</span><br>
+          <span>Masana. Me encanta el mar.</span>
         </li> 
       </ul>
     </div>
@@ -347,11 +347,11 @@ h3 {color: #d92929}
     <div class="w3-third">
       <h3>POPULAR TAGS</h3>
       <p>
-        <span class="w3-tag w3-black w3-margin-bottom">Travel</span> <span class="w3-tag w3-grey w3-small w3-margin-bottom">New York</span> <span class="w3-tag w3-grey w3-small w3-margin-bottom">London</span>
-        <span class="w3-tag w3-grey w3-small w3-margin-bottom">IKEA</span> <span class="w3-tag w3-grey w3-small w3-margin-bottom">NORWAY</span> <span class="w3-tag w3-grey w3-small w3-margin-bottom">DIY</span>
-        <span class="w3-tag w3-grey w3-small w3-margin-bottom">Ideas</span> <span class="w3-tag w3-grey w3-small w3-margin-bottom">Baby</span> <span class="w3-tag w3-grey w3-small w3-margin-bottom">Family</span>
-        <span class="w3-tag w3-grey w3-small w3-margin-bottom">News</span> <span class="w3-tag w3-grey w3-small w3-margin-bottom">Clothing</span> <span class="w3-tag w3-grey w3-small w3-margin-bottom">Shopping</span>
-        <span class="w3-tag w3-grey w3-small w3-margin-bottom">Sports</span> <span class="w3-tag w3-grey w3-small w3-margin-bottom">Games</span>
+        <span class="w3-tag w3-black w3-margin-bottom">Aire libre</span> <span class="w3-tag w3-grey w3-small w3-margin-bottom">Barcelona</span> <span class="w3-tag w3-grey w3-small w3-margin-bottom">Acuarela</span>
+        <span class="w3-tag w3-grey w3-small w3-margin-bottom">Creatividad</span> <span class="w3-tag w3-grey w3-small w3-margin-bottom">SPAIN</span> <span class="w3-tag w3-grey w3-small w3-margin-bottom">Dibujo</span>
+        <span class="w3-tag w3-grey w3-small w3-margin-bottom">Ideas</span> <span class="w3-tag w3-grey w3-small w3-margin-bottom">Flores</span> <span class="w3-tag w3-grey w3-small w3-margin-bottom">Amigos</span>
+        <span class="w3-tag w3-grey w3-small w3-margin-bottom">Edificios</span> <span class="w3-tag w3-grey w3-small w3-margin-bottom">Paisaje</span> <span class="w3-tag w3-grey w3-small w3-margin-bottom">Grupos reducidos</span>
+        <span class="w3-tag w3-grey w3-small w3-margin-bottom">Bichos</span> <span class="w3-tag w3-grey w3-small w3-margin-bottom">Colores</span>
       </p>
     </div>
 
