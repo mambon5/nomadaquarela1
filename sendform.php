@@ -4,15 +4,15 @@
  $load = "false";
 if(isset($_POST['submit'])){
        
-    //local hosting
-    require '/PHPMailer-master/src/Exception.php';
-    require '/PHPMailer-master/src/PHPMailer.php';
-    require '/PHPMailer-master/src/SMTP.php';
+
+//     require '../../PHPMailer-master/src/Exception.php';
+//     require '../../PHPMailer-master/src/PHPMailer.php';
+//     require '../../PHPMailer-master/src/SMTP.php';
     
-        //online hosting
-//         require $_SERVER['DOCUMENT_ROOT'] . '/mail/Exception.php';
-//         require $_SERVER['DOCUMENT_ROOT'] . '/mail/PHPMailer.php';
-//         require $_SERVER['DOCUMENT_ROOT'] . '/mail/SMTP.php';
+    //online hosting
+            require $_SERVER['DOCUMENT_ROOT'] . '/mail/Exception.php';
+            require $_SERVER['DOCUMENT_ROOT'] . '/mail/PHPMailer.php';
+            require $_SERVER['DOCUMENT_ROOT'] . '/mail/SMTP.php';
 
         $mail = new PHPMailer;
         $mail->isSMTP(); 
@@ -124,7 +124,7 @@ load = <?php
 h1,h2,h3,h4,h5,h6 {font-family: Amatic}
 body {font-family: Montserrat}
 a, button {font-family:OpenSans}
-h3,h2 {color: #d92929}
+h3 {color: #d92929}
 </style>
 <body class="w3-light-grey w3-content" style="max-width:1600px">
 
@@ -135,7 +135,7 @@ h3,h2 {color: #d92929}
 </div>
   <div class="w3-container">
     <a href="#" onclick="w3_close()" class="w3-hide-large w3-right w3-jumbo w3-padding w3-hover-grey" title="close menu">
-      <h3><b>Página</b></h3>
+      <i class="fa fa-remove"></i>
     </a>
     <img src="images/logo4.png" style="width:45%;" class="w3-round"><br><br>
     <h3 style="color:#d92929 ">PORTFOLIO</h3>
@@ -168,8 +168,8 @@ h3,h2 {color: #d92929}
 
   <!-- Header -->
   <header id="portfolio">
-    <a href="#"><img src="images/logo4.png" style="width:65px;" class="w3-circle w3-right w3-margin w3-hide-large w3-hover-opacity"></a>
-    <span class="w3-button w3-hide-large w3-xxlarge w3-hover-text-grey" onclick="w3_open()"><h2><b>Menú</b></h2></span>
+    <a href="#"><img src="/w3images/avatar_g2.jpg" style="width:65px;" class="w3-circle w3-right w3-margin w3-hide-large w3-hover-opacity"></a>
+    <span class="w3-button w3-hide-large w3-xxlarge w3-hover-text-grey" onclick="w3_open()"><i class="fa fa-bars"></i></span>
     <div class="w3-container">
         <h2 style="color:#d92929"><span style="font-family:OpenSans;font-size:50px;">NOMAD </span>aquarela</h2>
     <br>
@@ -419,7 +419,7 @@ h3,h2 {color: #d92929}
 
 <div class="w3-row-padding">
     <div class="w3-third w3-container w3-margin-bottom">
-      <img src="dibujos/low res eunice/mandala llena.jpg" alt="Norway" style="width:100%" class="w3-hover-opacity">
+      <img src="dibujos/low res eunice/Mandala llena.jpg" alt="Norway" style="width:100%" class="w3-hover-opacity">
       <div class="w3-container w3-white">
         <p><b>Mandala Llena</b></p>
         <p>Y muy redonda.</p>
@@ -600,7 +600,7 @@ h3,h2 {color: #d92929}
           <li class="w3-black w3-xlarge w3-padding-32">Dibujo original</li>
           <li class="w3-padding-16">dibujo original</li>
           <li class="w3-padding-16">con tarjeta agradecimiento</li>
-          <li class="w3-padding-16">sin marco</li>
+          <li class="w3-padding-16">Usin marco</li>
           <li class="w3-padding-16">enviamos a todo el mundo</li>
           <li class="w3-padding-16">
             <h2>95 €</h2>
@@ -637,10 +637,8 @@ h3,h2 {color: #d92929}
         <p style="font-size:18px"><p style="font-size:13px">contacto@nomadaquarela.world</p></p>
       </div>
       <div class="w3-third w3-teal">
-      <a href="https://goo.gl/maps/TmN6zQVbvcZJSwz26" target="blank">
         <p><i class="fa fa-map-marker w3-xxlarge w3-text-light-grey"></i></p>
         <p>Barcelona, Espanya</p>
-        </a>
       </div>
       <div class="w3-third w3-dark-grey">
         <p><i class="fa fa-phone w3-xxlarge w3-text-light-grey"></i></p>

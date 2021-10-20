@@ -504,12 +504,12 @@
 
 .fa-map-marker:before {
     background-image: url("../icons/mapa.png");
-    background-size: 20px 20px;
+    background-size: 40px 40px;
     position:relative;
     top:0px;
     display: inline-block;
-    width: 20px; 
-    height: 20px;
+    width: 40px; 
+    height: 40px;
 	content:"";
 }
 
@@ -1028,12 +1028,12 @@
 
 .fa-meetupp:before {
     background-image: url("../icons/meetup.png");
-    background-size: 20px 20px;
+    background-size: 40px 40px;
     position:relative;
     top:5px;
     display: inline-block;
-    width: 20px; 
-    height: 20px;
+    width: 40px; 
+    height: 40px;
 	content:"";
 }
 
@@ -1101,12 +1101,12 @@
 
 .fa-linkedin:before {
     background-image: url("../icons/linkedin.png");
-    background-size: 20px 20px;
+    background-size: 40px 40px;
     position:relative;
     top:5px;
     display: inline-block;
-    width: 20px; 
-    height: 20px;
+    width: 40px; 
+    height: 40px;
 	content:"";
 }
 
@@ -1652,12 +1652,12 @@
 
 .fa-instagram:before {
     background-image: url("../icons/instagram.png");
-    background-size: 20px 20px;
+    background-size: 40px 40px;
     position:relative;
     top:5px;
     display: inline-block;
-    width: 20px; 
-    height: 20px;
+    width: 40px; 
+    height: 40px;
 	content:"";
 }
 
@@ -2415,12 +2415,12 @@
 
 .fa-facebook-official:before {
     background-image: url("../icons/facebook.png");
-    background-size: 20px 20px;
+    background-size: 40px 40px;
     position:relative;
     top:5px;
     display: inline-block;
-    width: 20px; 
-    height: 20px;
+    width: 40px; 
+    height: 40px;
 	content:"";
 }
 
@@ -2904,12 +2904,12 @@
 
 .fa-meetup:before {
     background-image: url("../icons/meetup.png");
-    background-size: 20px 20px;
+    background-size: 40px 40px;
     position:relative;
     top:0px;
     display: inline-block;
-    width: 20px; 
-    height: 20px;
+    width: 40px; 
+    height: 40px;
 	content:"";
 }
 
